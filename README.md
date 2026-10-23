@@ -1,10 +1,10 @@
 <div align="center">
 
-![Intro](./assets/hero.svg?v=2)
-![About](./assets/about-life.svg?v=2)
-![Stack](./assets/stack.svg?v=2)
-![ID](./assets/id-dashboard.svg?v=2)
-![Connect](./assets/connect.svg?v=2)
+![Kushagra, Full Stack Developer (Flask + React builder), B.Tech CSE at Parul University, intern at XenoTech Solution](./assets/hero.svg?v=2)
+![What I do: full-stack web apps, databases, shipping on Render and Vercel, clean code; interests in real-world problems and 3D on the web](./assets/about-life.svg?v=2)
+![Tech stack: Java, Python, JavaScript, HTML5, CSS3, React, Angular, Bootstrap, Tailwind, Node.js, Express, Flask, MongoDB, MySQL, Git](./assets/stack.svg?v=2)
+![Profile card: projects LeadScore, Online Voting System and CampusConnect; intern at XenoTech Solution; B.Tech CSE 2022 to 2026; India](./assets/id-dashboard.svg?v=2)
+![Contact: LinkedIn in/kushagra751, GitHub kushagra751, Instagram @Kush18._, email](./assets/connect.svg?v=2)
 
 [LinkedIn](https://linkedin.com/in/kushagra751) | [GitHub](https://github.com/kushagra751) | [Instagram](https://instagram.com/Kush18._) | [Email](mailto:patidarkushagra4@gmail.com)
 
